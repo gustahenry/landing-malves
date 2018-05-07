@@ -1,0 +1,85 @@
+.above{
+	background-color: #555;
+	padding: 2.5rem 0;
+	color: #fff;
+}
+.above-content{
+	margin-top: 2.5rem;
+}
+.above-itens li{
+	list-style-type: none;
+	margin: 1.5rem;
+}
+.form-landing{
+	background-color: #fff;
+	width: 100%;
+	height: 400px;
+}
+.action{
+	color: #000;
+	background-color: #888;
+	padding: 2rem 0;
+}
+.action p{
+	margin-bottom: 0;
+}
+.btn-custom{
+	color: #fff;
+	background-color: #333;
+	border-color: #333;
+	border-radius: 50px;
+}
+.information-1{
+	padding: 3rem 0;
+}
+.information-title{
+	font-size: 2rem;
+	font-weight: bold;
+	margin-bottom: 3rem;
+}
+.information-title span{
+	font-size: 6rem;
+}
+.information-2{
+	padding: 3rem 0;
+	background-color: #eee;
+}
+.information-3{
+	padding: 3rem 0;
+}
+.information-4{
+	padding: 3rem 0;
+}
+.information-title p{
+	font-size: 1rem;
+	font-weight: lighter;
+}
+.information-subtitle{
+	font-weight: bold;
+	margin-bottom: 2rem;
+}
+.information-5{
+	background-color: #eee;
+	padding: 3rem;
+}
+.information-6{
+	padding: 3rem 0;
+}
+.footer{
+	color: #444;
+	background-color: #222;
+	padding: 1.5rem;
+}
+.footer p{
+	margin-bottom: 0;
+}
+@media (max-width: 575.98px) {max-width: 540px;}
+
+
+@media (max-width: 767.98px) {max-width: 720px;}
+
+
+@media (max-width: 991.98px) {max-width: 960px;}
+
+
+@media (min-width: 1199.98px) {max-width: 740px;}
